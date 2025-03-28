@@ -16,3 +16,6 @@ Learn how to [Install and Set Up](#Installation & Setup) the any of the PowerShe
 ### merge-and-cleanup
 * Function: Merge your desired pull request and delete the local and remote feature branches
 * Usage: merge-and-cleanup <pr id>
+### new-tracked-branch
+* Function: Create a new feature branch locally and remotely, and set upstream origin
+* Usage: new-tracked-branch <feature-branch-name>
