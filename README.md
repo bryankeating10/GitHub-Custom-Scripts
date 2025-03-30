@@ -1,4 +1,6 @@
-# GitHub Custom Scripts
+# GitHub Custom Scripts (without printed updates in terminal)
+These scripts are identical to the ones found in the main branch, except they do not print updates to the terminal of what is occuring.
+
 Having to write the same series of git commands over and over? Use these PowerShell scripts to optimize your GitHub experience!
 Quick disclaimer: as of March 28, 2025, this does not support Linux or MacOS, and was originally written to be most compatable in the VS Code terminal.
 ## Content Description
