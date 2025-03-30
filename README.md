@@ -1,6 +1,7 @@
 # GitHub Custom Scripts
 Having to write the same series of git commands over and over? Use these PowerShell scripts to optimize your GitHub experience!
 Quick disclaimer: as of March 28, 2025, this does not support Linux or MacOS, and was originally written to be most compatable in the VS Code terminal.
+Also, checkout the dont-print-status branch for scripts that do not print to the terminal while they are running.
 ## Content Description
 Learn how to [Install and Set Up](#Installation & Setup) the any of the PowerShell scripts. Get a [Description](#Script Descriptions) of the syntax and function of each script
 ## Installation & Setup
