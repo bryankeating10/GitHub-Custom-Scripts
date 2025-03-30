@@ -7,8 +7,5 @@ if (-not $featureBranch) {
     exit 1
 }
 
-Write-Host "Switching to feature branch"
 git checkout -b $featureBranch
-
-Write-Host "Setting upstream origin"
 git push --set-upstream origin $featureBranch
